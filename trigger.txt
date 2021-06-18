@@ -1,0 +1,3 @@
+# This is just a trigger for auto deployment. The server I use needs that.
+
+[#1 trigger]
